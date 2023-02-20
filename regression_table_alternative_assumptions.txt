@@ -1,0 +1,28 @@
+
+=========================================================
+                                       Main      Robust  
+---------------------------------------------------------
+Q("Esm Interactivity")              -0.1110*** 0.0029*** 
+                                    (0.0045)   (0.0008)  
+Q("Worker Interruption Tolerance")  0.0021***  0.0007*** 
+                                    (0.0000)   (0.0000)  
+Q("Worker Transparency Preference") 0.0106***  0.0030*** 
+                                    (0.0003)   (0.0001)  
+Q("Initial Metaknowledge Accuracy") 0.3526***  0.0822*** 
+                                    (0.0144)   (0.0032)  
+Q("Worker Dependency")              -0.1920*** -0.0044   
+                                    (0.0155)   (0.0033)  
+Q("Initial Esm Adoption")           0.0382***  0.0200*** 
+                                    (0.0144)   (0.0032)  
+Q("Metaknowledge Decay Rate")                  -0.0139***
+                                               (0.0009)  
+Q("Worker Aspiration")                         0.0541*** 
+                                               (0.0009)  
+Intercept                           -0.0691*** -0.0778***
+                                    (0.0134)   (0.0031)  
+R-squared                           0.3347     0.2263    
+R-squared Adj.                      0.3343     0.2262    
+N                                   9720       38880     
+=========================================================
+Standard errors in parentheses.
+* p<.1, ** p<.05, ***p<.01
